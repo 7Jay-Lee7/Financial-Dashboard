@@ -5,7 +5,7 @@ This is a full-stack web application built with the MERN stack (MongoDB, Express
 ![Dashboard](Dashboard.png)
 
 ## The Predictions Page
-![Dashboard](Predictions.png)
+![Predictions](Predictions.png)
 
 ## Installation
 To install and run this application on your local machine, follow these steps:
